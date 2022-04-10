@@ -8,6 +8,7 @@ authors = ["a457953 <roberto.masciarelli@enel.com>"]
 python = "^3.8"
 jupyter = "^1.0.0"
 pandas = "^1.4.2"
+matplotlib = "^3.5.1"
 
 [tool.poetry.dev-dependencies]
 
